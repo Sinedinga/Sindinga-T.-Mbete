@@ -1,2 +1,2 @@
-# Sindinga-T.-Mbete
-The last CV of Thando Mbete
+# Thando_Mbete_Final_CV
+This is my final CV
